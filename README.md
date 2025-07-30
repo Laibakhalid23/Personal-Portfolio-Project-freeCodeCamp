@@ -44,3 +44,9 @@ All preview images for the projects are stored in the `images` folder.
 - `images/` 
 - `README.md` 
 - `Screenshot.jpeg`
+
+## 🌐 Live Website
+
+You can view the live version of this portfolio here:  
+🔗 **[https://laibakhalid23.github.io/Personal-Portfolio-Project-freeCodeCamp/](https://laibakhalid23.github.io/Personal-Portfolio-Project-freeCodeCamp/)**
+
